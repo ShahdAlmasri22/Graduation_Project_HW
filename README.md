@@ -15,5 +15,5 @@ This system demonstrates a **conceptual automated hair implantation process** us
 You can view the full documentation and presentation here:  
 👉 [Google Drive Link] 🔗(https://drive.google.com/drive/folders/1X6iJIoF-ceGvK7QEm4S-ll9425GFcySb?usp=drive_link)  
 
-<img src="design.jpeg" alt="Project Screenshot" width="500"/>
+<img src="design.jpeg" alt="Project Screenshot" width="400"/>
 
