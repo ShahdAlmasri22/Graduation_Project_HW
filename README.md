@@ -1,14 +1,41 @@
 
-### 🎓 Graduation Project: Auto HairImplant  
+🦱 Hair Transplant Automation System (Graduation Project)
+📄 A graduation project that automates hair transplant procedures using smart mechanical design, real-time patient monitoring, and user-friendly integration.
+Ensures precise positioning, patient safety, and clean setup with mechanical components, biometric sensors, and visual feedback.
 
-**Auto HairImplant** is a **CNC-based hair implantation prototype**.  
+⚙️ Features
 
-🔹 **How ​​it works:**
-1. The Raspberry Pi camera captures an image of the scalp and displays it on a screen for the doctor.
-2. The doctor draws the desired transplant location on the image.
-3. The program creates points representing hair follicles and converts them to coordinates.
-4. The coordinates are sent to the Arduino, which controls the motors to move to each point.
-5. It includes emergency safety mechanisms for protection.
+🪑 Head Positioning: Automatic alignment on a 42cm aluminum frame for accurate procedures.
+
+💡 Smart Chair: Embedded electronics and sensors for wire-free professional design.
+
+❤️ Vitals Monitoring: MAX30100 (Heart Rate) & MLX90614 (Temperature) with threshold alerts.
+
+🖥️ Dual Displays: OLED for patient, 7” LCD via Raspberry Pi for real-time doctor dashboard.
+
+🔔 Audio Alerts: Triggered only when abnormal readings persist for configurable cycles.
+
+🛠️ Technologies
+
+Microcontrollers: Arduino, ESP8266
+
+Sensors: MAX30100, MLX90614
+
+Displays: UG-2864 OLED, 7” LCD
+
+GUI: Python with Tkinter
+
+Mechanical: Aluminum frame & custom fixtures
+
+🚀 Setup
+
+Connect sensors to Arduino (hidden integration in chair).
+
+Upload Arduino code to read and send data.
+
+Run Python Tkinter GUI on Raspberry Pi for real-time display.
+
+Configure audio alerts for continuous abnormal readings.
 
 ## 📂 Project Documentation  
 You can view the full documentation and presentation here:  
