@@ -1,8 +1,7 @@
 
 ### 🎓 Graduation Project: Auto HairImplant  
 
-**Auto HairImplant** is a **CNC-based hair implantation prototype** developed as a graduation project.  
-This system demonstrates a **conceptual automated hair implantation process** using robotics and computer vision.  
+**Auto HairImplant** is a **CNC-based hair implantation prototype**.  
 
 🔹 **How ​​it works:**
 1. The Raspberry Pi camera captures an image of the scalp and displays it on a screen for the doctor.
